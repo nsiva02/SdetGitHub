@@ -9,7 +9,7 @@ public class GitTestClass {
 			System.out.println("I have something to eat");
 		}
 		else {
-			System.out.println("I am not hungry");
+			System.out.println("I do not want eat");
 		}
 		
 
